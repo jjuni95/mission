@@ -1,0 +1,12 @@
+토큰 : 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 (유효기간 없음)
+
+<프로젝트 가져오기>
+소스트리 [+] -> 클론 -> URL 입력 칸에 
+- https://github.com/jjuni95/mission
+- 입력 후 불러오기
+
+<프로젝트 풀>
+설정 -> origin 클릭 후 편집 ->
+
+요거 입력
+https://jjuni95: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@github.com/jjuni95/mission.git
